@@ -1,0 +1,6 @@
+com\threadly\product\controller\ProductController.class
+com\threadly\product\model\Product.class
+com\threadly\product\dao\Response.class
+com\threadly\product\service\ProductService.class
+com\threadly\product\repository\ProductRepository.class
+com\threadly\product\ProductServiceThreadlyApplication.class
